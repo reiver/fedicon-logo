@@ -1,1 +1,1 @@
-# fedicon-logo
+# FediCon Logo
